@@ -3,50 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="493a5c76-7246-4324-af4e-e8a0aa99f855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/MainVerticle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/Campaign.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/CampaignsCapsLayer$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/CampaignsCapsLayer$CampaignsCapsLayerHolder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/CampaignsCapsLayer$CountersHolder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/CampaignsCapsLayer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/Cap$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/Cap$CapBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/Cap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/walkme/codingtest/model/Data.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/walkme/codingtest/VerticleTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/codingtest-1.0.0-SNAPSHOT.tar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/codingtest-1.0.0-SNAPSHOT.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/codingtest-shadow-1.0.0-SNAPSHOT.tar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/codingtest-shadow-1.0.0-SNAPSHOT.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/libs/codingtest-1.0.0-SNAPSHOT-fat.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/libs/codingtest-1.0.0-SNAPSHOT.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.walkme.codingtest.VerticleTest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.walkme.codingtest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/codingtest" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/codingtest.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/scriptsShadow/codingtest" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/scriptsShadow/codingtest.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.walkme.codingtest.VerticleTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/shadowJar/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/MainVerticle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/Campaign.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/CampaignsCapsLayer$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/CampaignsCapsLayer$CampaignsCapsLayerHolder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/CampaignsCapsLayer$CountersHolder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/CampaignsCapsLayer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/Cap$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/Cap$CapBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/Cap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/walkme/codingtest/model/Data.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/walkme/codingtest/VerticleTest.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -911,7 +867,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512842265943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".gitignore">
+      <created>1512842325243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512842325243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
